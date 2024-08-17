@@ -1,0 +1,437 @@
+[
+    {
+        "question": "What is the unit of magnetic flux?",
+        "options": ["Tesla", "Weber", "Henry", "Farad"],
+        "answer": "Weber"
+    },
+    {
+        "question": "What is the primary law governing electromagnetic induction?",
+        "options": ["Faraday's Law", "Ampere's Law", "Gauss's Law", "Ohm's Law"],
+        "answer": "Faraday's Law"
+    },
+    {
+        "question": "Which of the following is a vector quantity?",
+        "options": ["Electric potential", "Electric field", "Electric charge", "Electric energy"],
+        "answer": "Electric field"
+    },
+    {
+        "question": "Which law states that the line integral of the magnetic field around a closed loop is proportional to the current passing through the loop?",
+        "options": ["Faraday's Law", "Ampere's Law", "Gauss's Law", "Lenz's Law"],
+        "answer": "Ampere's Law"
+    },
+    {
+        "question": "What does Gauss's law relate?",
+        "options": ["Magnetic flux", "Electric flux", "Magnetic field", "Electric field"],
+        "answer": "Electric flux"
+    },
+    {
+        "question": "What is the SI unit of electric charge?",
+        "options": ["Coulomb", "Volt", "Ohm", "Farad"],
+        "answer": "Coulomb"
+    },
+    {
+        "question": "What is the direction of the magnetic field around a current-carrying conductor?",
+        "options": ["Along the current", "Opposite to current", "Perpendicular to current", "Parallel to current"],
+        "answer": "Perpendicular to current"
+    },
+    {
+        "question": "Which law states that the total electric flux through any closed surface is proportional to the total electric charge enclosed within that surface?",
+        "options": ["Gauss's Law", "Faraday's Law", "Ampere's Law", "Lenz's Law"],
+        "answer": "Gauss's Law"
+    },
+    {
+        "question": "What is the relationship between electric field and electric potential?",
+        "options": ["E = V/d", "E = V*d", "E = V/d^2", "E = V^2/d"],
+        "answer": "E = V/d"
+    },
+    {
+        "question": "What is the nature of the electromagnetic waves?",
+        "options": ["Longitudinal", "Transverse", "Both", "None"],
+        "answer": "Transverse"
+    },
+    {
+        "question": "In an electromagnetic wave, the electric and magnetic fields are oriented how?",
+        "options": ["Perpendicular to each other", "Parallel to each other", "Opposite to each other", "In the same direction"],
+        "answer": "Perpendicular to each other"
+    },
+    {
+        "question": "What is the speed of light in vacuum?",
+        "options": ["3 x 10^8 m/s", "3 x 10^6 m/s", "3 x 10^10 m/s", "3 x 10^7 m/s"],
+        "answer": "3 x 10^8 m/s"
+    },
+    {
+        "question": "Which of the following materials is not a conductor?",
+        "options": ["Copper", "Aluminum", "Wood", "Gold"],
+        "answer": "Wood"
+    },
+    {
+        "question": "The area surrounding a magnet within which magnetic force is exerted is known as what?",
+        "options": ["Magnetic field", "Electric field", "Magnetic flux", "Magnetic domain"],
+        "answer": "Magnetic field"
+    },
+    {
+        "question": "Which of the following is true for an ideal inductor?",
+        "options": ["Resists changes in current", "Resists changes in voltage", "Stores energy in the form of electric field", "Has zero inductance"],
+        "answer": "Resists changes in current"
+    },
+    {
+        "question": "What is the basic principle behind the working of a transformer?",
+        "options": ["Electromagnetic induction", "Ohm's Law", "Coulomb's Law", "Gauss's Law"],
+        "answer": "Electromagnetic induction"
+    },
+    {
+        "question": "The capacitance of a parallel plate capacitor increases with what?",
+        "options": ["Increase in plate area", "Increase in distance between plates", "Decrease in plate area", "Decrease in dielectric constant"],
+        "answer": "Increase in plate area"
+    },
+    {
+        "question": "Which of the following is not a Maxwell's equation?",
+        "options": ["Gauss's law for electricity", "Gauss's law for magnetism", "Faraday's law", "Ohm's law"],
+        "answer": "Ohm's law"
+    },
+    {
+        "question": "What does Lenz's Law deal with?",
+        "options": ["Direction of induced EMF", "Magnitude of induced EMF", "Magnetic flux", "Electric flux"],
+        "answer": "Direction of induced EMF"
+    },
+    {
+        "question": "Which of the following is the correct expression for the Lorentz force?",
+        "options": ["F = q(E + v x B)", "F = q(E - v x B)", "F = q(E * v * B)", "F = q(E / v / B)"],
+        "answer": "F = q(E + v x B)"
+    },
+    {
+        "question": "Which of the following can be shielded by a Faraday cage?",
+        "options": ["Magnetic field", "Electric field", "Both", "None"],
+        "answer": "Electric field"
+    },
+    {
+        "question": "Which of the following is a scalar quantity?",
+        "options": ["Electric field", "Magnetic field", "Magnetic flux", "Electric potential"],
+        "answer": "Electric potential"
+    },
+    {
+        "question": "What is the unit of electric field?",
+        "options": ["V/m", "N/m", "C/m", "T/m"],
+        "answer": "V/m"
+    },
+    {
+        "question": "Which of the following materials has the highest permeability?",
+        "options": ["Iron", "Air", "Copper", "Wood"],
+        "answer": "Iron"
+    },
+    {
+        "question": "Which of the following is true for an ideal capacitor?",
+        "options": ["Stores energy in the form of electric field", "Stores energy in the form of magnetic field", "Has zero capacitance", "Resists changes in current"],
+        "answer": "Stores energy in the form of electric field"
+    },
+    {
+        "question": "Which of the following materials is a good insulator?",
+        "options": ["Glass", "Copper", "Aluminum", "Gold"],
+        "answer": "Glass"
+    },
+    {
+        "question": "Which of the following is the SI unit of magnetic field strength?",
+        "options": ["Tesla", "Weber", "Farad", "Coulomb"],
+        "answer": "Tesla"
+    },
+    {
+        "question": "What does the Biot-Savart Law describe?",
+        "options": ["Magnetic field due to a current", "Electric field due to a charge", "Magnetic flux", "Electric potential"],
+        "answer": "Magnetic field due to a current"
+    },
+    {
+        "question": "Which of the following is the correct expression for Ohm's Law?",
+        "options": ["V = IR", "V = I/R", "V = R/I", "V = I^2R"],
+        "answer": "V = IR"
+    },
+    {
+        "question": "What does the Poynting vector represent?",
+        "options": ["Energy flux of an electromagnetic wave", "Magnetic field strength", "Electric field strength", "Force on a charge"],
+        "answer": "Energy flux of an electromagnetic wave"
+    },
+    {
+        "question": "Which of the following is not a type of polarization?",
+        "options": ["Electronic", "Ionic", "Orientational", "Gravitational"],
+        "answer": "Gravitational"
+    },
+    {
+        "question": "What is the phase difference between the electric and magnetic fields in an electromagnetic wave?",
+        "options": ["0 degrees", "90 degrees", "180 degrees", "270 degrees"],
+        "answer": "0 degrees"
+    },
+    {
+        "question": "Which of the following is true for a ferromagnetic material?",
+        "options": ["It can be magnetized", "It cannot be magnetized", "It has no magnetic properties", "It has negative permeability"],
+        "answer": "It can be magnetized"
+    },
+    {
+        "question": "Which of the following laws states that the curl of the magnetic field is equal to the current density?",
+        "options": ["Ampere's Law", "Faraday's Law", "Gauss's Law", "Lenz's Law"],
+        "answer": "Ampere's Law"
+    },
+    {
+        "question": "What is the effect of increasing the frequency of an electromagnetic wave?",
+        "options": ["Increases energy", "Decreases energy", "Increases wavelength", "Decreases wavelength"],
+        "answer": "Increases energy"
+    },
+    {
+        "question": "Which of the following is true for a perfect dielectric?",
+        "options": ["It has zero conductivity", "It has infinite conductivity", "It has zero permittivity", "It has infinite permeability"],
+        "answer": "It has zero conductivity"
+    },
+    {
+        "question": "Which of the following is true for an ideal inductor?",
+        "options": ["Stores energy in the form of magnetic field", "Stores energy in the form of electric field", "Has zero inductance", "Resists changes in voltage"],
+        "answer": "Stores energy in the form of magnetic field"
+    },
+    {
+        "question": "Which of the following represents the relationship between the electric displacement field D and the electric field E in a dielectric material?",
+        "options": ["D = εE", "D = E/ε", "D = ε/E", "D = E*ε"],
+        "answer": "D = εE"
+    },
+    {
+        "question": "What is the SI unit of capacitance?",
+        "options": ["Farad", "Henry", "Weber", "Tesla"],
+        "answer": "Farad"
+    },
+    {
+        "question": "What is the primary cause of eddy currents?",
+        "options": ["Changing magnetic fields", "Changing electric fields", "Constant magnetic fields", "Constant electric fields"],
+        "answer": "Changing magnetic fields"
+    },
+    {
+        "question": "Which of the following is true for a superconductor?",
+        "options": ["It has zero electrical resistance", "It has infinite electrical resistance", "It has zero magnetic permeability", "It has infinite capacitance"],
+        "answer": "It has zero electrical resistance"
+    },
+    {
+        "question": "What is the relationship between the permeability of free space (μ₀) and the magnetic field strength (H)?",
+        "options": ["B = μ₀H", "B = H/μ₀", "B = μ₀/H", "B = H*μ₀"],
+        "answer": "B = μ₀H"
+    },
+    {
+        "question": "Which of the following is a consequence of Maxwell's equations?",
+        "options": ["Electromagnetic waves", "Electric circuits", "Electrostatics", "Quantum mechanics"],
+        "answer": "Electromagnetic waves"
+    },
+    {
+        "question": "What is the nature of the force between two like charges?",
+        "options": ["Repulsive", "Attractive", "No force", "It depends on the medium"],
+        "answer": "Repulsive"
+    },
+    {
+        "question": "What happens to the electric potential as the distance from a point charge increases?",
+        "options": ["Decreases", "Increases", "Remains constant", "Becomes zero"],
+        "answer": "Decreases"
+    },
+    {
+        "question": "Which of the following is not a form of electromagnetic radiation?",
+        "options": ["Gamma rays", "Microwaves", "Sound waves", "Radio waves"],
+        "answer": "Sound waves"
+    },
+    {
+        "question": "What does the dielectric constant of a material represent?",
+        "options": ["Ability to store electrical energy", "Ability to conduct electricity", "Ability to store magnetic energy", "Ability to conduct heat"],
+        "answer": "Ability to store electrical energy"
+    },
+    {
+        "question": "What is the purpose of a capacitor in an electrical circuit?",
+        "options": ["Store electric charge", "Store magnetic energy", "Convert AC to DC", "Amplify signals"],
+        "answer": "Store electric charge"
+    },
+    {
+        "question": "Which of the following is true for an ideal transformer?",
+        "options": ["Power output equals power input", "Voltage output equals voltage input", "Current output equals current input", "Magnetic flux output equals magnetic flux input"],
+        "answer": "Power output equals power input"
+    },
+    {
+        "question": "Which of the following laws can be used to determine the direction of the induced current in a closed loop?",
+        "options": ["Lenz's Law", "Faraday's Law", "Ampere's Law", "Gauss's Law"],
+        "answer": "Lenz's Law"
+    },
+    {
+        "question": "What is the role of a dielectric material in a capacitor?",
+        "options": ["Increases capacitance", "Decreases capacitance", "Increases resistance", "Decreases resistance"],
+        "answer": "Increases capacitance"
+    },
+    {
+        "question": "Which of the following is true for a paramagnetic material?",
+        "options": ["Weakly attracted to magnetic fields", "Strongly attracted to magnetic fields", "Not affected by magnetic fields", "Repelled by magnetic fields"],
+        "answer": "Weakly attracted to magnetic fields"
+    },
+    {
+        "question": "What is the effect of temperature on the resistivity of a conductor?",
+        "options": ["Increases with temperature", "Decreases with temperature", "Remains constant", "Depends on the material"],
+        "answer": "Increases with temperature"
+    },
+    {
+        "question": "Which of the following describes the motion of a charged particle in a uniform magnetic field?",
+        "options": ["Circular", "Linear", "Parabolic", "Hyperbolic"],
+        "answer": "Circular"
+    },
+    {
+        "question": "What does the divergence of a magnetic field represent?",
+        "options": ["Magnetic monopoles", "Electric monopoles", "No monopoles", "Magnetic dipoles"],
+        "answer": "No monopoles"
+    },
+    {
+        "question": "Which of the following is true for a diamagnetic material?",
+        "options": ["Weakly repelled by magnetic fields", "Strongly repelled by magnetic fields", "Not affected by magnetic fields", "Attracted to magnetic fields"],
+        "answer": "Weakly repelled by magnetic fields"
+    },
+    {
+        "question": "What is the primary function of an inductor in a circuit?",
+        "options": ["Store energy in a magnetic field", "Store energy in an electric field", "Convert AC to DC", "Amplify signals"],
+        "answer": "Store energy in a magnetic field"
+    },
+    {
+        "question": "Which of the following is true for the electric potential inside a conductor?",
+        "options": ["Constant", "Varies linearly", "Varies exponentially", "Depends on the external field"],
+        "answer": "Constant"
+    },
+    {
+        "question": "Which of the following is a result of electromagnetic induction?",
+        "options": ["Induced EMF", "Induced magnetic field", "Induced electric field", "Induced current"],
+        "answer": "Induced EMF"
+    },
+    {
+        "question": "Which of the following is true for the magnetic flux through a closed surface?",
+        "options": ["Always zero", "Always positive", "Always negative", "Depends on the shape of the surface"],
+        "answer": "Always zero"
+    },
+    {
+        "question": "What happens to the inductance of a coil if the number of turns is doubled?",
+        "options": ["Increases", "Decreases", "Remains the same", "Becomes zero"],
+        "answer": "Increases"
+    },
+    {
+        "question": "Which of the following is true for an electrostatic field in a conductor?",
+        "options": ["Zero inside the conductor", "Non-zero inside the conductor", "Constant inside the conductor", "Depends on the external field"],
+        "answer": "Zero inside the conductor"
+    },
+    {
+        "question": "What is the relationship between the magnetic field and the distance from a long straight current-carrying wire?",
+        "options": ["Inversely proportional", "Directly proportional", "Constant", "Independent"],
+        "answer": "Inversely proportional"
+    },
+    {
+        "question": "Which of the following materials is most likely to exhibit superconductivity?",
+        "options": ["Niobium", "Copper", "Aluminum", "Gold"],
+        "answer": "Niobium"
+    },
+    {
+        "question": "What happens to the energy stored in a capacitor if the voltage across it is doubled?",
+        "options": ["Increases four times", "Increases two times", "Remains the same", "Decreases"],
+        "answer": "Increases four times"
+    },
+    {
+        "question": "Which of the following is true for the energy density in an electromagnetic wave?",
+        "options": ["Equal contributions from electric and magnetic fields", "Higher contribution from electric field", "Higher contribution from magnetic field", "Depends on the medium"],
+        "answer": "Equal contributions from electric and magnetic fields"
+    },
+    {
+        "question": "Which of the following describes the behavior of light as it enters a medium with a higher refractive index?",
+        "options": ["Bends towards the normal", "Bends away from the normal", "Continues in the same direction", "Reflects back"],
+        "answer": "Bends towards the normal"
+    },
+    {
+        "question": "Which of the following is the correct expression for the magnetic energy stored in an inductor?",
+        "options": ["(1/2)LI^2", "LI", "I^2/L", "L/I^2"],
+        "answer": "(1/2)LI^2"
+    },
+    {
+        "question": "What is the primary cause of electromagnetic radiation?",
+        "options": ["Accelerating charges", "Constant current", "Static charges", "Magnetic monopoles"],
+        "answer": "Accelerating charges"
+    },
+    {
+        "question": "Which of the following is true for the magnetic field inside a solenoid?",
+        "options": ["Uniform and parallel to the axis", "Non-uniform and parallel to the axis", "Uniform and perpendicular to the axis", "Non-uniform and perpendicular to the axis"],
+        "answer": "Uniform and parallel to the axis"
+    },
+    {
+        "question": "What is the role of a magnetic core in a transformer?",
+        "options": ["Increase magnetic flux", "Decrease magnetic flux", "Increase voltage", "Decrease voltage"],
+        "answer": "Increase magnetic flux"
+    },
+    {
+        "question": "Which of the following is the correct expression for the energy stored in a capacitor?",
+        "options": ["(1/2)CV^2", "CV", "V^2/C", "C/V^2"],
+        "answer": "(1/2)CV^2"
+    },
+    {
+        "question": "Which of the following describes the motion of a charged particle in a non-uniform magnetic field?",
+        "options": ["Spiral", "Circular", "Linear", "Parabolic"],
+        "answer": "Spiral"
+    },
+    {
+        "question": "Which of the following is true for the electric field at the surface of a conductor?",
+        "options": ["Perpendicular to the surface", "Parallel to the surface", "Zero at the surface", "Varies with distance from the surface"],
+        "answer": "Perpendicular to the surface"
+    },
+    {
+        "question": "What happens to the impedance of a series RLC circuit at resonance?",
+        "options": ["Minimum", "Maximum", "Infinite", "Zero"],
+        "answer": "Minimum"
+    },
+    {
+        "question": "Which of the following is the correct expression for the power radiated by an electric dipole?",
+        "options": ["P ∝ ω^4", "P ∝ ω^2", "P ∝ ω", "P ∝ ω^3"],
+        "answer": "P ∝ ω^4"
+    },
+    {
+        "question": "What is the primary function of a resistor in an electrical circuit?",
+        "options": ["Limit current", "Store energy", "Increase voltage", "Convert AC to DC"],
+        "answer": "Limit current"
+    },
+    {
+        "question": "Which of the following describes the direction of the magnetic force on a charged particle?",
+        "options": ["Perpendicular to both velocity and magnetic field", "Parallel to velocity", "Parallel to magnetic field", "Opposite to velocity"],
+        "answer": "Perpendicular to both velocity and magnetic field"
+    },
+    {
+        "question": "Which of the following materials has a negative temperature coefficient of resistance?",
+        "options": ["Semiconductors", "Conductors", "Superconductors", "Insulators"],
+        "answer": "Semiconductors"
+    },
+    {
+        "question": "What is the relationship between the electric field and the potential gradient?",
+        "options": ["E = -dV/dx", "E = dV/dx", "E = V/x", "E = x/V"],
+        "answer": "E = -dV/dx"
+    },
+    {
+        "question": "Which of the following is true for the capacitance of a parallel plate capacitor if the plate separation is doubled?",
+        "options": ["Decreases by half", "Increases by half", "Remains the same", "Becomes zero"],
+        "answer": "Decreases by half"
+    },
+    {
+        "question": "Which of the following is true for the force between two current-carrying wires placed parallel to each other?",
+        "options": ["Attractive if currents are in the same direction", "Repulsive if currents are in the same direction", "Attractive if currents are in opposite directions", "No force if currents are in the same direction"],
+        "answer": "Attractive if currents are in the same direction"
+    },
+    {
+        "question": "Which of the following is true for the energy stored in an electric field?",
+        "options": ["Proportional to the square of the electric field", "Proportional to the electric field", "Independent of the electric field", "Proportional to the cube of the electric field"],
+        "answer": "Proportional to the square of the electric field"
+    },
+    {
+        "question": "What happens to the frequency of an electromagnetic wave as it passes from one medium to another?",
+        "options": ["Remains the same", "Increases", "Decreases", "Becomes zero"],
+        "answer": "Remains the same"
+    },
+    {
+        "question": "Which of the following describes the behavior of magnetic lines of force?",
+        "options": ["They form closed loops", "They radiate outward", "They converge at a point", "They are discontinuous"],
+        "answer": "They form closed loops"
+    },
+    {
+        "question": "What is the effect of increasing the length of a conductor on its resistance?",
+        "options": ["Increases", "Decreases", "Remains the same", "Becomes zero"],
+        "answer": "Increases"
+    },
+    {
+        "question": "Which of the following is true for the electric potential due to a dipole at an equatorial point?",
+        "options": ["Zero", "Maximum", "Minimum", "Infinity"],
+        "answer": "Zero"
+    }
+]
